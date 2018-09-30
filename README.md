@@ -5,4 +5,4 @@
 レスポンシブWebデザイン
 
 ## キャプチャー
-![キャプチャー001](https://github.com/YukiShinonome/Web/blob/master/images/capture001.jpg)
+![キャプチャー001](https://github.com/YukiShinonome/PublishSite/blob/master/images/capture001.jpg)
